@@ -1,0 +1,4 @@
+env:
+  url: jdbc:postgresql://localhost:5434/prayer_db?user=MP77&password=IDecreeAndDeclareWarOnShitePerformance
+  migrationPath: classpath:pastor/prayerbook/db/migration
+
