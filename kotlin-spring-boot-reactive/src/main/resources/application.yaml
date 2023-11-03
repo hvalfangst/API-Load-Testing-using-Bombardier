@@ -1,0 +1,10 @@
+server:
+    port: 8081
+spring:
+  r2dbc:
+      username: MP77
+      password: IDecreeAndDeclareWarOnShitePerformance
+      port: 5434
+      database: prayer_db
+      host: localhost
+      url: r2dbc:postgresql://localhost:5434/prayer_db
