@@ -1,5 +1,0 @@
-server:
-  port: 8080
-env:
-  url: jdbc:postgresql://localhost:5434/prayer_db?user=MP77&password=IDecreeAndDeclareWarOnShitePerformance
-
